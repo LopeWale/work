@@ -1,0 +1,5 @@
+# Ignore the folder
+frmRTMain_blocks/
+
+# Ignore the file
+frmRTMAIN.vb
